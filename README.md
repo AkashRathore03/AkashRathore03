@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkashRathore03
+- 👋 Hi, I’m Akash Rathore.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning React.
 - 📚  In my free time I Read.
